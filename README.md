@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##  I am Raghupathi Dhara
+#  I am Raghupathi Dhara
 
 - I'm a Full-stack Developer and Enthusiastic Code
 - Knowledge in React.js, Node.js, MongoDB, Javascript
