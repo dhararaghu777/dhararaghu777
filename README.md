@@ -6,4 +6,4 @@
 - Knowledge in React.js, Node.js, MongoDB, Javascript
 - Knowledge in HTML, CSS, Material UI
 - Knowledge in Python and SQL
-- Currently working as Associate System Engineer at IBM
+- Currently working as a Associate System Engineer at IBM
