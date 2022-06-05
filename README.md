@@ -7,7 +7,7 @@ Full-stack Developer
 I am a MERN stack developer with 1-year of experience. I am currently working at IBM as a Front-end developer.
 
 * 🌍  I'm based in Tirupati, Andhra Pradesh
-* 🖥️  See my portfolio at [My Portfolio](http://my-portfolio-f0c01.web.app)
+* 🖥️  See my portfolio at [My Portfolio](https://myprofile01.herokuapp.com/user/dhararaghupathi)
 * ✉️  You can contact me at [dhararaghupathi@gmail.com](mailto:dhararaghupathi@gmail.com)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on MERN stack projects
