@@ -8,7 +8,7 @@ I am a full stack developer with 3-year of experience.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [dhararaghupathi@gmail.com](mailto:dhararaghupathi@gmail.com)
-* 🤝  I'm open for open source collaboration
+* 🤝  Open-source contributor
 
 ### Skills
 
